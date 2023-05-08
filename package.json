@@ -88,7 +88,7 @@
   },
   "devDependencies": {
     "@angular/compiler-cli": "8.2.13",
-    "@ngtools/webpack": "8.3.18",
+    "@ngtools/webpack": "8.3.29",
     "@types/chrome": "0.0.91",
     "@types/clone": "0.1.30",
     "@types/d3": "5.7.2",
